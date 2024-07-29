@@ -3087,6 +3087,16 @@
 		)
 		(uuid "ec34344f-cc4c-4019-be8c-aee6e91abbec")
 	)
+	(text "bvjhsdbjvdf"
+		(exclude_from_sim no)
+		(at 192.786 161.798 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "f0a2ce2e-1d05-4868-abc3-18aa983d83c2")
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 113.03 44.45 0)
